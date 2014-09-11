@@ -2,6 +2,9 @@
 Changelog for package laser_joint_projector
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.0.3 (2014-09-11)
+------------------
+
 1.0.1 (2014-09-08)
 ------------------
 * Fixed catkin_lint 0 problems
