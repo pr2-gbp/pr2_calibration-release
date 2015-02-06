@@ -2,6 +2,20 @@
 Changelog for package dense_laser_assembler
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.0.7 (2015-02-06)
+------------------
+
+1.0.6 (2014-12-04)
+------------------
+* Changelogs
+* Contributors: TheDash
+
+1.0.5 (2014-10-14)
+------------------
+* Changed lib destination for dense_laser_snapshotter
+* Removed mainpage.dox for *
+* Contributors: TheDash
+
 1.0.4 (2014-09-17)
 ------------------
 
